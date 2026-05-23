@@ -404,10 +404,10 @@ function renderRegistrationPage() {
         <select id="education">
           <option value="">Select</option>
           <option value="High School">High School</option>
+          <option value="Diploma">Diploma</option>
           <option value="Bachelor">Bachelor</option>
           <option value="Master">Master</option>
           <option value="PhD">PhD</option>
-          <option value="Diploma">Diploma</option>
         </select>
         <div class="error-message" id="educationError">Please select education level</div>
       </div>
